@@ -1,9 +1,4 @@
----
-title: "course project machine learning"
-author: "sandro"
-date: "15/9/2017"
-output: html_document
----
+#Course project machine learning
 
 #Executive Summary
 
